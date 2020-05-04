@@ -10,5 +10,5 @@ criar agendamentos, encontrar agendamentos pela data.
 Os arquivos estão estruturados por **Separation of Concern (Soc)**, e as técnicas de **Single Responsibility Principle** e de **Dependency Inversion Principle** 
 do SOLID também estão sendo utilizadas.
 
-O programa contém apenas a rota de agendamento.
+O programa contém apenas a rota de agendamento, e não tem consistência de banco de dados.
 O programa está escrito em Typescript.
